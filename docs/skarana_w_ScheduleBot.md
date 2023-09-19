@@ -12,7 +12,7 @@ Total Assessment : 78
 Area|Assessment|Evidence|
 |----|---------|---------|
 Video 1|3|https://www.youtube.com/watch?v=FnJ8C9iSjqY|
-Workload is spread over whole team|3|Yes reference https://github.com/lyonva/ScheduleBot/graphs/contributors|
+Workload is spread over whole team|3|Yes reference: https://github.com/lyonva/ScheduleBot/graphs/contributors|
 Everyone is contributing|3|Yes we can reference almost everyone as contributor in every file https://github.com/lyonva/ScheduleBot/graphs/contributors|
 Number of commits	|3|409 total commits|
 Number of commits by different people|3| https://github.com/lyonva/ScheduleBot/graphs/contributors Salvisumedh2396->7, Kunwarvidhan->11, Muhammad-Alahmadi ->14, War-Keeper ->16, Vasuagrawal19 -> 19|
