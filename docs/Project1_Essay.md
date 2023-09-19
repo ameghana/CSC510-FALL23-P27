@@ -18,7 +18,7 @@ Since we need the python 3.9 version, we need to setup a virtual environment(ven
 
 5)Scripts\activate 	         #activating virtual environment
 
-_**Once venv setup is done, we will start cloning the repository using the following commands**_
+Once venv setup is done, we will start cloning the repository using the following commands
 
 6)git clone {repolink}       #cloning a repository
 
