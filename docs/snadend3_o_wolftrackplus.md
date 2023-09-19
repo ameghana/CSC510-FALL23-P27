@@ -11,17 +11,17 @@ Total Assessment : 86
 
 Area|Assessment|Evidence|
 |----|---------|---------|
-Video 1|3|Yes,[Reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus)|
-Video 2|3|Yes, [Reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus)|
-Workload is spread over whole team|2|Yes [reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/graphs/contributors)|
+Video 1|3|Yes,[Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus#watch-wolftrack-in-action)|
+Video 2|3|Yes, [Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus#watch-wolftrack-in-action)|
+Workload is spread over whole team|3|Yes [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/graphs/contributors)|
 Everyone is contributing|3|Yes we can reference almost everyone as contributor in every file|
-Number of commits	|3|195 total commits|
-Number of commits by different people|3| https://github.com/rohan22shah/slash-phase3/graphs/contributors darshanp228 ->43, rohan22shah->38, anshulp2912 ->32, pragna98 ->20, AgrawalBhavya ->18|
-Lots of issue reports|2|15 issues total,[reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/issues)|
-Issues are being closed|1|13 closed issues and 2 open issues-> [reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/issues)| 
-DOI badge exists|3|DOI badge exists on -> [reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/README.md)|
-Docs: doco generated, not ugly|2|[Reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/tree/main/docs)|
-Docs: what: point descriptions of each class/function (in isolation)|3|[Refer](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/docs/proj1rubric.md)
+Number of commits	|3|303 total commits|
+Number of commits by different people|3| [Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/graphs/contributors) ->43, rohan22shah->38, anshulp2912 ->32, pragna98 ->20, AgrawalBhavya ->18|
+Lots of issue reports|3|29 issues total,[reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/issues)|
+Issues are being closed|2|23 closed issues and 6 open issues-> [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/issues)| 
+DOI badge exists|3|DOI badge exists on -> [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus#readme)|
+Docs: doco generated, not ugly|3|[Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/tree/main/docs)|
+Docs: what: point descriptions of each class/function (in isolation)|3|[Refer](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/docs/proj1rubric.md)
 Docs: how: for common use cases X, Y, Z mini tutorials show worked examples on how to do X, Y, Z|2|Steps mentioned, [Refer](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/README.md#preview)|
 Docs: why: docs tell a story, provide motivation, give a punchline|3|Readme is perfectly made with all the explanations, [Reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/README.md#preview)|
 Docs: short video, animated, hosted on repo|3|[Refer](https://github.com/ArpithaVijayakumar/WolfTrackPlus#watch-wolftrack-in-action)|
@@ -38,10 +38,10 @@ Issues are discussed before they are closed|1|Issues closed with no discussion|
 Chat channel: exists|3|Yes -> [Reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus#chat-channel)|
 Test cases: large proportion of the issues related to handling failing cases|0|N/A|
 Evidence the whole team is using the same tools: everyone can get to all tools/files|2|Yes we can reference almost everyone as contributor in src/test|
-Evidence the whole team is using the same tools: config files in repo, updated by lots of different people|2|Yes -> [reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/requirements.txt)|
-Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate system running on their computer)|2|Yes as there is a workflow setup -> [refer](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/.github/workflows/main.yml)|
-Evidence that the team members are working across multiple places in the code base|2|Yes we can reference almost everyone as contributor in every file|
-Short release cycles|2|Yes, only 2 releases -> [reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/releases)|
+Evidence the whole team is using the same tools: config files in repo, updated by lots of different people|2|Yes -> [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/requirements.txt)|
+Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate system running on their computer)|3|Yes as there is a workflow setup -> [refer](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/.github/workflows/Build%20Status.yml)|
+Evidence that the team members are working across multiple places in the code base|3|Yes we can reference almost everyone as contributor in every file|
+Short release cycles|3|Yes, total 4 releases -> [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/releases)|
 
 |Q1 - What your software does|||
 |----------------------------|------|-----|
