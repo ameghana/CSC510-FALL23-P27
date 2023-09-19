@@ -7,7 +7,7 @@
 | Evaluation Team | o |
 | Project Link | Project l (Wolftrackplus) [Repo](https://github.com/ramyasaimullapudi/WolfTrackPlus)|
 
-Total Assessment : 86
+Total Assessment : 74
 
 Area|Assessment|Evidence|
 |----|---------|---------|
@@ -16,20 +16,20 @@ Video 2|3|Yes, [Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus#wa
 Workload is spread over whole team|3|Yes [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/graphs/contributors)|
 Everyone is contributing|3|Yes we can reference almost everyone as contributor in every file|
 Number of commits	|3|303 total commits|
-Number of commits by different people|3| [Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/graphs/contributors) ->43, rohan22shah->38, anshulp2912 ->32, pragna98 ->20, AgrawalBhavya ->18|
+Number of commits by different people|3| [Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/graphs/contributors) surajdm123->30, ArpithaVijaykumar->19, Himanshuu-Gupta ->19, arjunptm ->18, Ashnayak ->18, rhnprabhune ->16,krishnasaurabh ->15, apurva-s ->14,Krishika510 ->13, ramyasaimullapudi ->11, shreyanshPrajapati ->10,rmullap ->8, ivbhatt ->7, Sneha-at ->7, UnnatiPrema ->5|
 Lots of issue reports|3|29 issues total,[reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/issues)|
 Issues are being closed|2|23 closed issues and 6 open issues-> [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/issues)| 
 DOI badge exists|3|DOI badge exists on -> [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus#readme)|
 Docs: doco generated, not ugly|3|[Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/tree/main/docs)|
 Docs: what: point descriptions of each class/function (in isolation)|3|[Refer](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/docs/proj1rubric.md)
-Docs: how: for common use cases X, Y, Z mini tutorials show worked examples on how to do X, Y, Z|2|Steps mentioned, [Refer](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/README.md#preview)|
-Docs: why: docs tell a story, provide motivation, give a punchline|3|Readme is perfectly made with all the explanations, [Reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/README.md#preview)|
-Docs: short video, animated, hosted on repo|3|[Refer](https://github.com/ArpithaVijayakumar/WolfTrackPlus#watch-wolftrack-in-action)|
-Use of version control tools|3|Project clearly hosted on GitHub here -> [refer](https://github.com/ArpithaVijayakumar/WolfTrackPlus)|
-Use of style checkers|0|No config file(s) found|
-Code formatters|3**|https://github.com/rohan22shah/slash-phase3/blob/main/.github/workflows/code_formatter.yml|
-Use of syntax checkers|2|[checkers](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/.github/workflows/main.yml)|
-Use of code coverage|0|No file found|
+Docs: how: for common use cases X, Y, Z mini tutorials show worked examples on how to do X, Y, Z|2|Steps mentioned, [Refer](https://github.com/ramyasaimullapudi/WolfTrackPlus/tree/main#getting-started)|
+Docs: why: docs tell a story, provide motivation, give a punchline|3|Readme is perfectly made with all the explanations, [Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/tree/main#readme)|
+Docs: short video, animated, hosted on repo|3|[Refer](https://github.com/ramyasaimullapudi/WolfTrackPlus/commit/a2dfee087efc8178cddeb653a1f588463d344026)|
+Use of version control tools|3|Project clearly hosted on GitHub here -> [refer](https://github.com/ramyasaimullapudi/WolfTrackPlus)|
+Use of style checkers|3|[Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/templates/layout/base.html)|
+Code formatters|3|[Reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/tree/main/templates)|
+Use of syntax checkers|2|[checkers](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/.github/workflows/BlackFormatChecker.yml)|
+Use of code coverage|3|Codecov 54.50%, [Reference](https://app.codecov.io/gh/ramyasaimullapudi/WolfTrackPlus)|
 Other automated analysis tools|0|No config file(s) found|
 Test cases exist|3|All tests exists -> [Refer](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/UnitTesting/login_page_testing.py)|
 Test cases are routinely executed|0|[reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/actions)|
@@ -61,7 +61,7 @@ Short release cycles|3|Yes, total 4 releases -> [reference](https://github.com/r
 4.2) Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|YES/NO|YES|
 4.3) If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|YES/NO/NOT APPLICABLE|YES
 4.4) Do you provide a comprehensive guide to all your software’s commands, functions and options?|YES/NO|YES|
-4.5) Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|YES/NO|NO|
+4.5) Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|YES/NO|YES|
 4.6) If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|YES/NO|NO|
 4.7) Do you store your documentation under revision control with your source code?|YES/NO/NOT APPLICABLE|YES|
 4.8) Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?|Yes/No|YES|
