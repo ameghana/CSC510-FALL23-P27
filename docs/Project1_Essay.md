@@ -2,7 +2,7 @@
 
 Slash is an open-source web framework that makes use of FastAPI to scrape the best deals from various e-commerce websites such as eBay, Amazon, BestBuy, Costco, Target, and Walmart. Slash makes it easy for users to filter and organize search results and also provides visualization in the form of charts and graphs.
 
-**Steps and difficulties while running the project in Windows**:
+**Steps and difficulties while running the project**:
 
 _**Python installation for backend**_:
 
@@ -17,6 +17,31 @@ Since we need the python 3.9 version, we need to setup a virtual environment(ven
 4)cd {virtual environment name}    #navigating to virtual environment
 
 5)Scripts\activate 	         #activating virtual environment
+
+_**Python installation for backend(MacOS)**_:
+
+Since we need the python 3.9 version,
+1)Install Homebrew:
+
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+2)Now install PyEnv to switch between different version of python
+
+ 	brew install pyenv
+
+3)Now to install required version of python using PyEnv, run this command:
+
+	pyenv install 3.9.2
+
+
+
+
+
+
+
+
+
+
 
 Once venv setup is done, we will start cloning the repository using the following commands
 
