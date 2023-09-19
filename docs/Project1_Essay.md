@@ -52,13 +52,16 @@ _**Node installation for front-end**_
             	 "start": "react-scripts --openssl-legacy-provider start",
             	 "build": "react-scripts --openssl-legacy-provider build",
                }
-_**Learnings**_:
+	       
+**Learnings**:
+
 This is an interesting project, and we were able to learn new/valuable things. The following are our learnings and these are helpful to improve and add new features to the existing project. 
 **Importance of Virtual environment**: Setting up a virtual environment was an essential part of this project. Since the software versions used in the project are different from what we have, having a virtual environment is helpful. This virtual environment will not disturb the existing softwares in the system.
 **Evaluation of Rubrics**: As we evaluated the project based on each metric, we have a good understanding of the code and workflow of the project. 
 **Importance of Good repo**: The repo of the project is very understandable, clear and simple. The document clearly explains the problem and solution by providing all the steps. We will maintain the same format for repo.
 **Test-cases**: In every project, all test-cases should be considered and testing has to be done accordingly. We’ve noticed that some of the test-cases are not validated, and proper error messages are not provided. We are going to include all the testcases, and provide user understandable error messages in our project 2 implementation.
-_**Code Analysis on higher level**_
+
+**Code Analysis on higher level**
 
 To develop the backend of the project, python was used. Initially to scrape the data from e-commerce websites and to parse the data, BeautifulSoup library was imported. For the API calls, when an item related to a particular website is called, FastAPI was implemented. FastAPI is a modern robust web framework to build APIs with python. It is also compatible with node.js, which was used to develop the front-end of the project. For production using FastAPI, an ASGI server was necessary. Hence, Uvicorn is installed. <br/>
 Front-end of the project was implemented using node.js specifically coded in React.js. Material UI which is an open source React component library was used to design components like navigation bar, app bar, buttons, select and tables. To display graphical data in Graphs page, chart.js, a free java-script library was implemented. Also to establish HTTP requests, axios library is used. It is used to perform CRUD operations and communicate with the backend.
