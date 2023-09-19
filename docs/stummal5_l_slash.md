@@ -5,7 +5,7 @@
 | Unity ID | stummal5 |
 | Our Team | 27 |
 | Evaluation Team | l |
-| Project Link | [Project l (Slash) Repo][(https://github.com/rohan22shah/slash-phase3)]|
+| Project Link | Slash(l)-https://github.com/rohan22shah/slash-phase3|
 
 Total Assessment : 86
 
@@ -99,10 +99,10 @@ Short release cycles|2|Yes but only 1 releases -> reference https://github.com/r
 11.7) Can you download dependencies using a dependency management tool or package manager?*e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)|Yes/No/Not Applicable|YES|
 11.8) Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|Yes/No|YES|
 |Q12 - How you test your software|||
-12.1) Do you have an automated test suite for your software?Yes/No|NO|
+12.1) Do you have an automated test suite for your software?|Yes/No|NO|
 12.2) Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|Yes/No/Not applicable|NO|
 12.3) Do you use continuous integration, automatically running tests whenever changes are made to your source code?|Yes/No/Not applicable|NO|
-12.4) Are your test results publicly visible?|Yes/No/Not applicable|NO|
+12.4) Are your test results publicly visible?|Yes/No/Not applicable|YES|
 12.5) Are all manually-run tests documented?|Yes/No/Not applicable|YES|
 |Q13 - How you engage with your community|||
 13.1) Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software?e.g. release announcements, publications, workshops, conference presentations|Yes/No|NO|
@@ -119,7 +119,7 @@ Short release cycles|2|Yes but only 1 releases -> reference https://github.com/r
 14.3) Is your contributions' policy publicly available?|Yes/No/Not Applicable|YES|
 14.4) Do contributors keep the copyright/IP of their contributions?|Yes/No/Not Applicable|YES|
 |Q15 - Your software's copyright and licensing|||
-15.1) Does your website and documentation clearly state the copyright owners of your software and documentation?|Yes/No|NO|
+15.1) Does your website and documentation clearly state the copyright owners of your software and documentation?|Yes/No|YES|
 15.2) Does each of your source code files include a copyright statement?|Yes/No|YES|
 15.3) Does your website and documentation clearly state the licence of your software?|Yes/No|YES|
 15.4) Is your software released under an open source licence?|Yes/No|YES|
