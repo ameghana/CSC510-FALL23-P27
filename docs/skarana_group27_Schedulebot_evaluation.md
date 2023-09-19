@@ -5,43 +5,42 @@
 | Unity ID | skarana |
 | Our Team | 27 |
 | Evaluation Team | w |
-| Project Link | [Project l (Schedule bot) Repo][(https://github.com/War-Keeper/ScheduleBot)]|
+| Project Link | [Project w (Schedule bot) Repo][(https://github.com/War-Keeper/ScheduleBot)]|
 
-Total Assessment : 86
+Total Assessment : 78
 
 Area|Assessment|Evidence|
 |----|---------|---------|
-Video 1|3|https://github.com/rohan22shah/slash-phase3/blob/main/assets/demo.gif|
-Video 2|3|Reference https://www.youtube.com/watch?v=H1LSa4P-8fM|
-Workload is spread over whole team|3|Yes reference https://github.com/rohan22shah/slash-phase3/graphs/contributors|
-Everyone is contributing|3|Yes we can reference almost everyone as contributor in every file|
-Number of commits	|3|163 total commits|
-Number of commits by different people|3| https://github.com/rohan22shah/slash-phase3/graphs/contributors darshanp228 ->43, rohan22shah->38, anshulp2912 ->32, pragna98 ->20, AgrawalBhavya ->18|
-Lots of issue reports|3|4 issues total; https://github.com/rohan22shah/slash-phase3/issues|
-Issues are being closed|3|14 closed issues -> reference https://github.com/rohan22shah/slash-phase3/issues?q=is%3Aissue+is%3Aclosed%20| 
-DOI badge exists|3|DOI badge exists on -> https://github.com/rohan22shah/slash-phase3/blob/main/README.md|
-Docs: doco generated, not ugly|3|Reference https://github.com/rohan22shah/slash-phase3/tree/main/docs|
-Docs: what: point descriptions of each class/function (in isolation)|3|https://github.com/rohan22shah/slash-phase3/blob/main/docs/Code%20Description.pdf
-Docs: how: for common use cases X, Y, Z mini tutorials show worked examples on how to do X, Y, Z|3|Output screenshots found in docs folder.Refer https://github.com/rohan22shah/slash-phase3/blob/main/docs/SoftwareDocumentation-%20Phase3.md|
-Docs: why: docs tell a story, provide motivation, give a punchline|3|Reference https://github.com/rohan22shah/slash-phase3/blob/main/docs/SoftwareDocumentation-%20Phase3.md|
-Docs: short video, animated, hosted on repo|3|Gif is present in assets folder on repo.Refer https://github.com/rohan22shah/slash-phase3/blob/main/assets/demo.gif|
+Video 1|3|https://www.youtube.com/watch?v=FnJ8C9iSjqY|
+Workload is spread over whole team|3|Yes reference https://github.com/lyonva/ScheduleBot/graphs/contributors|
+Everyone is contributing|3|Yes we can reference almost everyone as contributor in every file https://github.com/lyonva/ScheduleBot/graphs/contributors|
+Number of commits	|3|409 total commits|
+Number of commits by different people|3| https://github.com/lyonva/ScheduleBot/graphs/contributors Salvisumedh2396->7, Kunwarvidhan->11, Muhammad-Alahmadi ->14, War-Keeper ->16, Vasuagrawal19 -> 19|
+Lots of issue reports|2|17 open issues total; https://github.com/War-Keeper/ScheduleBot/issues|
+Issues are being closed|3|16 closed issues -> reference https://github.com/War-Keeper/ScheduleBot/issues| 
+DOI badge exists|3|DOI badge exists on -> https://github.com/War-Keeper/ScheduleBot|
+Docs: doco generated, not ugly|3|Reference https://github.com/War-Keeper/ScheduleBot/tree/main/docs|
+Docs: what: point descriptions of each class/function (in isolation)|3|https://github.com/War-Keeper/ScheduleBot/blob/main/README.md
+Docs: how: for common use cases X, Y, Z mini tutorials show worked examples on how to do X, Y, Z|3|Output screenshots found in docs folder.Refer https://github.com/lyonva/ScheduleBot/blob/main/README.md|
+Docs: why: docs tell a story, provide motivation, give a punchline|3|Reference https://github.com/lyonva/ScheduleBot/blob/main/README.md|
+Docs: short video, animated, hosted on repo|3|Gif is present in assets folder on repo.Refer https://github.com/lyonva/ScheduleBot/blob/main/README.md|
 Use of version control tools|3|Git is used throughout the project|
-Use of style checkers|3|https://github.com/rohan22shah/slash-phase3/blob/main/CONTRIBUTING.md|
-Code formatters|3|https://github.com/rohan22shah/slash-phase3/blob/main/.github/workflows/code_formatter.yml|
-Use of syntax checkers|3|https://github.com/rohan22shah/slash-phase3/blob/main/.github/workflows/python-app.yml|
-Use of code coverage|3|https://app.codecov.io/gh/rohan22shah/slash-phase3|
-Other automated analysis tools|3|GitHub actions will automate deployment for the FastAPI used in this project.Refer https://github.com/rohan22shah/slash-phase3/blob/main/docs/Github%20Actions-Azure%20Integration.pdf|
-Test cases exist|3|All tests exists -> Refer https://github.com/rohan22shah/slash-phase3/tree/main/tests|
-Test cases are routinely executed|3|reference https://github.com/rohan22shah/slash-phase3/tree/main/.github/workflows|
-The files CONTRIBUTING.md lists coding standards and tips on how to extend the system|3|Yes -> https://github.com/rohan22shah/slash-phase3/blob/main/CONTRIBUTING.md|
-Issues are discussed before they are closed|2|Yes -> Reference https://github.com/rohan22shah/slash-phase3/issues/2|
-Chat channel: exists|0|No|
-Test cases: large proportion of the issues related to handling failing cases|2|If any test case fails, its treated as a bug. Total 3 bugs are closed.Refer https://github.com/rohan22shah/slash-phase3/issues?q=is%3Aissue+is%3Aclosed|
-Evidence the whole team is using the same tools: everyone can get to all tools/files|3|Yes we can reference almost everyone as contributor in src/test|
-Evidence the whole team is using the same tools: config files in repo, updated by lots of different people|2|Yes -> reference https://github.com/rohan22shah/slash-phase3/blob/main/requirements.txt|
-Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate system running on their computer)|3|Yes as there is a workflow setup -> https://github.com/rohan22shah/slash-phase3/blob/main/.github/workflows/python-app.yml|
-Evidence that the team members are working across multiple places in the code base|3|Yes we can reference almost everyone as contributor in every file|
-Short release cycles|2|Yes but only 1 releases -> reference https://github.com/rohan22shah/slash-phase3/releases|
+Use of style checkers|3|https://github.com/lyonva/ScheduleBot/blob/main/.github/workflows/python-app.yml|
+Code formatters|3|https://github.com/lyonva/ScheduleBot/blob/main/.github/workflows/python-app.yml|
+Use of syntax checkers|3|https://github.com/lyonva/ScheduleBot/blob/main/.github/workflows/python-app.yml|
+Use of code coverage|3|https://github.com/lyonva/ScheduleBot/blob/main/.github/workflows/python-app.yml|
+Other automated analysis tools|0|NA|
+Test cases exist|3|All tests exists -> Refer https://github.com/lyonva/ScheduleBot/tree/main/test|
+Test cases are routinely executed|3|reference https://github.com/lyonva/ScheduleBot/tree/main/.github/workflows|
+The files CONTRIBUTING.md lists coding standards and tips on how to extend the system|3|Yes -> https://github.com/lyonva/ScheduleBot/blob/main/CONTRIBUTING.md|
+Issues are discussed before they are closed|2|Yes -> Reference https://github.com/lyonva/ScheduleBot/issues|
+Chat channel: exists|0|NA|
+Test cases: large proportion of the issues related to handling failing cases|1|https://github.com/lyonva/ScheduleBot/issues|
+Evidence the whole team is using the same tools: everyone can get to all tools/files|3|Yes we can reference almost everyone as contributor|
+Evidence the whole team is using the same tools: config files in repo, updated by lots of different people|2|Yes -> https://github.com/lyonva/ScheduleBot/blob/main/requirements.txt|
+Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate system running on their computer)|3|Yes as there is a workflow setup -> https://github.com/lyonva/ScheduleBot/blob/main/.github/workflows/python-app.yml|
+Evidence that the team members are working across multiple places in the code base|3|Yes we can reference almost everyone as contributor in every file https://github.com/lyonva/ScheduleBot/commits/main|
+Short release cycles|2|Yes https://github.com/lyonva/ScheduleBot/graphs/contributors|
 
 |Q1 - What your software does|||
 |----------------------------|------|-----|
