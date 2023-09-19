@@ -31,11 +31,11 @@ Code formatters|3**|https://github.com/rohan22shah/slash-phase3/blob/main/.githu
 Use of syntax checkers|2|[checkers](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/.github/workflows/main.yml)|
 Use of code coverage|0|No file found|
 Other automated analysis tools|0|No config file(s) found|
-Test cases exist|3|All tests exists -> [Refer](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/UnitTesting/login_page_testing.py)|
-Test cases are routinely executed|0|[reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus/actions)|
-The files CONTRIBUTING.md lists coding standards and tips on how to extend the system|2|Yes -> [refer](https://github.com/ArpithaVijayakumar/WolfTrackPlus/blob/main/CONTRIBUTING.md)|
-Issues are discussed before they are closed|1|Issues closed with no discussion|
-Chat channel: exists|3|Yes -> [Reference](https://github.com/ArpithaVijayakumar/WolfTrackPlus#chat-channel)|
+Test cases exist|3|All tests exists -> [Refer](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/UnitTesting/login_page_testing.py)|
+Test cases are routinely executed|0|[reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/actions)|
+The files CONTRIBUTING.md lists coding standards and tips on how to extend the system|2|Yes -> [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/CONTRIBUTING.md)|
+Issues are discussed before they are closed|2|Issues are closed with discussion, [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/issues?q=is%3Aissue+is%3Aclosed)|
+Chat channel: exists|0|No|
 Test cases: large proportion of the issues related to handling failing cases|0|N/A|
 Evidence the whole team is using the same tools: everyone can get to all tools/files|2|Yes we can reference almost everyone as contributor in src/test|
 Evidence the whole team is using the same tools: config files in repo, updated by lots of different people|2|Yes -> [reference](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/requirements.txt)|
