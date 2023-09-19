@@ -19,6 +19,7 @@ Since we need the python 3.9 version, we need to setup a virtual environment(ven
 5)Scripts\activate 	         #activating virtual environment
 
 _**Once venv setup is done, we will start cloning the repository using the following commands**_
+
 6)git clone {repolink}       #cloning a repository
 
 7)cd slash         	#navigating to slash folder
@@ -34,6 +35,7 @@ _**Once venv setup is done, we will start cloning the repository using the follo
 10)python main.py   #to run the backend
 
 _**Node installation for front-end**_
+
 11)Install node 18.17.1     #installing older version of node.js 
 
 12)cd client    #navigating to client directory
