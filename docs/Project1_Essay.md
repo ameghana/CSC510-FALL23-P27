@@ -34,16 +34,18 @@ Since we need the python 3.9 version,
 	pyenv install 3.9.2
 
 
+4)To SetUp MacOS path for pyEnv in ZSH or OhMyZSH
 
+	echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
+	echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
 
+5)Then Run this:
 
+	echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init --path)"\n  eval "$(pyenv init -)"\nfi' >> ~/.zshrc
+	pyenv global 3.9.2
+	pyenv versions
 
-
-
-
-
-
-Once venv setup is done, we will start cloning the repository using the following commands
+_**Once venv setup is done, we will start cloning the repository using the following commands**_
 
 6)git clone {repolink}       #cloning a repository
 
@@ -69,6 +71,11 @@ _**Node installation for front-end**_
 
            Here we are getting ERROR: upstream dependency conflict, so to resolve this, the below command is executed
             	npm install --force
+
+      	   We may encounter this issue in MacOS:
+	  	ImportError: cannot import name 'NotRequired' from 'typing_extensions' 		(/Users/sravyakaranam/.pyenv/versions/3.9.2/lib/python3.9/site-packages/typing_extensions.py)
+
+	To resolve that, We have to execute: pip install typing_extensions==4.7.1 –upgrade
              
 14)npm run start
 
